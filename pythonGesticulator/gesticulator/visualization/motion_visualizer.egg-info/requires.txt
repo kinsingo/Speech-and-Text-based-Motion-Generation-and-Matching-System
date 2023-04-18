@@ -1,0 +1,7 @@
+matplotlib
+scipy
+pyquaternion
+pandas
+sklearn
+transforms3d
+bvh

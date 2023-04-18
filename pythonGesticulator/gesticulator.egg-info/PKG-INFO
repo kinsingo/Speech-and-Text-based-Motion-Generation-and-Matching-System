@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: gesticulator
+Version: 0.1
+Summary: Gesture generation
+Home-page: https://github.com/Svito-zar/gesticulator
+Author: Taras Kucherenko
+Author-email: tarask@kth.se
+License: MIT
+License-File: LICENSE

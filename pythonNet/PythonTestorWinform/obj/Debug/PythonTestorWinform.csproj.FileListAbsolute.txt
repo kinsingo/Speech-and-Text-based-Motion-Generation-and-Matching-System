@@ -1,0 +1,12 @@
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\PythonTestorWinform\bin\Debug\PythonTestorWinform.exe.config
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\PythonTestorWinform\bin\Debug\PythonTestorWinform.exe
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\PythonTestorWinform\bin\Debug\PythonTestorWinform.pdb
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\PythonTestorWinform\bin\Debug\Python.Runtime.dll
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\PythonTestorWinform\obj\Debug\PythonTestorWinform.csproj.AssemblyReference.cache
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\PythonTestorWinform\obj\Debug\PythonTestorWinform.csproj.SuggestedBindingRedirects.cache
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\PythonTestorWinform\obj\Debug\PythonTestorWinform.Properties.Resources.resources
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\PythonTestorWinform\obj\Debug\PythonTestorWinform.csproj.GenerateResource.cache
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\PythonTestorWinform\obj\Debug\PythonTestorWinform.csproj.CoreCompileInputs.cache
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\PythonTestorWinform\obj\Debug\PythonTestorWinform.csproj.CopyComplete
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\PythonTestorWinform\obj\Debug\PythonTestorWinform.exe
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\PythonTestorWinform\obj\Debug\PythonTestorWinform.pdb

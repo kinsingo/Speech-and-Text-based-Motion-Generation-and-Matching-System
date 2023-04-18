@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3e6bf29f-e28d-45b7-8ffa-fe10457727a1": {
+      "ProjectGuid": "3e6bf29f-e28d-45b7-8ffa-fe10457727a1",
+      "DisplayName": "Audio_to_Text",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

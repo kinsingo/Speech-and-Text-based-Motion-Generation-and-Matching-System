@@ -1,0 +1,9 @@
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\Audio_to_Text\obj\Debug\Audio_to_Text.csproj.AssemblyReference.cache
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\Audio_to_Text\obj\Debug\Audio_to_Text.Properties.Resources.resources
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\Audio_to_Text\obj\Debug\Audio_to_Text.csproj.GenerateResource.cache
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\Audio_to_Text\obj\Debug\Audio_to_Text.csproj.CoreCompileInputs.cache
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\Audio_to_Text\bin\Debug\Audio_to_Text.exe.config
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\Audio_to_Text\bin\Debug\Audio_to_Text.exe
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\Audio_to_Text\bin\Debug\Audio_to_Text.pdb
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\Audio_to_Text\obj\Debug\Audio_to_Text.exe
+C:\Users\jongh\OneDrive\바탕 화면\Metaver_Project_120220121_Shinjonghyun\pythonNet\Audio_to_Text\obj\Debug\Audio_to_Text.pdb

@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+gesticulator/__init__.py
+gesticulator/evaluate.py
+gesticulator/install_script.py
+gesticulator/setup.py
+gesticulator/train.py
+gesticulator.egg-info/PKG-INFO
+gesticulator.egg-info/SOURCES.txt
+gesticulator.egg-info/dependency_links.txt
+gesticulator.egg-info/not-zip-safe
+gesticulator.egg-info/top_level.txt
